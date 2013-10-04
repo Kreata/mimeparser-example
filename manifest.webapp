@@ -1,0 +1,13 @@
+{
+    "version": "1",
+    "name": "Mimeparser test app",
+    "type" : "web",
+    "launch_path": "/parse.html",
+    "description": "MIME parsing app",
+    "developer": {
+        "name": "Andris Reinman",
+        "url": "http://www.andrisreinman.com"
+    },
+    "installs_allowed_from": ["*"],
+    "default_locale": "en"
+}
